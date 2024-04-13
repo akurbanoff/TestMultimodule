@@ -1,0 +1,335 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ru.axas.auction.test" >
+4
+5    <uses-sdk
+5-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:5:5-74
+6        android:minSdkVersion="26"
+6-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:5:15-41
+7        android:targetSdkVersion="26" />
+7-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:11:5-15:70
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:11:22-76
+11        android:functionalTest="false"
+11-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:13:22-53
+13        android:label="Tests for ru.axas.auction.test"
+13-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:15:22-68
+14        android:targetPackage="ru.axas.auction.test" />
+14-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:12:22-66
+15
+16    <uses-permission android:name="android.permission.REORDER_TASKS" />
+16-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:24:5-72
+16-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:24:22-69
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:9:5-81
+17-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:9:22-78
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:10:5-79
+18-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:10:22-76
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:11:5-76
+19-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:11:22-73
+20    <uses-permission android:name="android.permission.INTERNET" /> <!-- Include required permissions for Google Maps API to run. -->
+20-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:12:5-67
+20-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:12:22-64
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:23:5-79
+21-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:23:22-76
+22
+23    <uses-feature
+23-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:26:5-28:35
+24        android:glEsVersion="0x00020000"
+24-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:27:9-41
+25        android:required="true" />
+25-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:28:9-32
+26
+27    <queries>
+27-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:30:5-34:15
+28
+29        <!-- Needs to be explicitly declared on Android R+ -->
+30        <package android:name="com.google.android.apps.maps" />
+30-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:33:9-64
+30-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:33:18-61
+31        <package android:name="androidx.test.orchestrator" />
+31-->[androidx.test:runner:1.5.2] /home/neekee/.gradle/caches/transforms-3/862615d46871128764cb69ccc349fcc8/transformed/runner-1.5.2/AndroidManifest.xml:25:9-62
+31-->[androidx.test:runner:1.5.2] /home/neekee/.gradle/caches/transforms-3/862615d46871128764cb69ccc349fcc8/transformed/runner-1.5.2/AndroidManifest.xml:25:18-59
+32        <package android:name="androidx.test.services" />
+32-->[androidx.test:runner:1.5.2] /home/neekee/.gradle/caches/transforms-3/862615d46871128764cb69ccc349fcc8/transformed/runner-1.5.2/AndroidManifest.xml:26:9-58
+32-->[androidx.test:runner:1.5.2] /home/neekee/.gradle/caches/transforms-3/862615d46871128764cb69ccc349fcc8/transformed/runner-1.5.2/AndroidManifest.xml:26:18-55
+33        <package android:name="com.google.android.apps.common.testing.services" />
+33-->[androidx.test:runner:1.5.2] /home/neekee/.gradle/caches/transforms-3/862615d46871128764cb69ccc349fcc8/transformed/runner-1.5.2/AndroidManifest.xml:27:9-83
+33-->[androidx.test:runner:1.5.2] /home/neekee/.gradle/caches/transforms-3/862615d46871128764cb69ccc349fcc8/transformed/runner-1.5.2/AndroidManifest.xml:27:18-80
+34    </queries>
+35
+36    <permission
+36-->[androidx.core:core:1.12.0] /home/neekee/.gradle/caches/transforms-3/53b04e3f9bbfa12835e1361350c7e3c2/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+37        android:name="ru.axas.auction.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+37-->[androidx.core:core:1.12.0] /home/neekee/.gradle/caches/transforms-3/53b04e3f9bbfa12835e1361350c7e3c2/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+38        android:protectionLevel="signature" />
+38-->[androidx.core:core:1.12.0] /home/neekee/.gradle/caches/transforms-3/53b04e3f9bbfa12835e1361350c7e3c2/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+39
+40    <uses-permission android:name="ru.axas.auction.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Permission will be merged into the manifest of the hosting app. -->
+40-->[androidx.core:core:1.12.0] /home/neekee/.gradle/caches/transforms-3/53b04e3f9bbfa12835e1361350c7e3c2/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+40-->[androidx.core:core:1.12.0] /home/neekee/.gradle/caches/transforms-3/53b04e3f9bbfa12835e1361350c7e3c2/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+41    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
+42    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+42-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:13:5-77
+42-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:13:22-74
+43
+44    <application
+44-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:7:5-9:19
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.12.0] /home/neekee/.gradle/caches/transforms-3/53b04e3f9bbfa12835e1361350c7e3c2/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+46        android:debuggable="true"
+47        android:extractNativeLibs="false" >
+48        <uses-library android:name="android.test.runner" />
+48-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:8:9-60
+48-->/home/neekee/AndroidStudioProjects/TestMultimodule/feature/auction/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14328921180980922363.xml:8:23-57
+49
+50        <activity
+50-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:27:9-34:20
+51            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+51-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:28:13-99
+52            android:exported="true"
+52-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:29:13-36
+53            android:theme="@style/WhiteBackgroundTheme" >
+53-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:30:13-56
+54            <intent-filter android:priority="-100" >
+54-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+54-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:32:17-77
+55-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:32:27-74
+56            </intent-filter>
+57        </activity>
+58        <activity
+58-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:35:9-42:20
+59            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+59-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:36:13-95
+60            android:exported="true"
+60-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:37:13-36
+61            android:theme="@style/WhiteBackgroundTheme" >
+61-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:38:13-56
+62            <intent-filter android:priority="-100" >
+62-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+62-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:32:17-77
+63-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:32:27-74
+64            </intent-filter>
+65        </activity>
+66        <activity
+66-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:43:9-50:20
+67            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+67-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:44:13-103
+68            android:exported="true"
+68-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:45:13-36
+69            android:theme="@style/WhiteBackgroundDialogTheme" >
+69-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:46:13-62
+70            <intent-filter android:priority="-100" >
+70-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+70-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+71                <category android:name="android.intent.category.LAUNCHER" />
+71-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:32:17-77
+71-->[androidx.test:core:1.5.0] /home/neekee/.gradle/caches/transforms-3/d51be69cde46e5e543534d4fc2d2a181/transformed/core-1.5.0/AndroidManifest.xml:32:27-74
+72            </intent-filter>
+73        </activity>
+74        <activity
+74-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:15:9-21:20
+75            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+75-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:16:13-91
+76            android:exported="false"
+76-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:17:13-37
+77            android:label="@string/places_autocomplete_label"
+77-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:18:13-62
+78            android:theme="@style/PlacesAutocompleteOverlay"
+78-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:19:13-61
+79            android:windowSoftInputMode="adjustResize" >
+79-->[com.google.android.libraries.places:places:3.0.0] /home/neekee/.gradle/caches/transforms-3/2b9e7f82c22f1c234ee8abac99a681dc/transformed/places-3.0.0/AndroidManifest.xml:20:13-55
+80        </activity> <!-- Needs to be explicitly declared on P+ -->
+81        <uses-library
+81-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:39:9-41:40
+82            android:name="org.apache.http.legacy"
+82-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:40:13-50
+83            android:required="false" />
+83-->[com.google.android.gms:play-services-maps:18.1.0] /home/neekee/.gradle/caches/transforms-3/2c80a51ed6f39f93feb67387d03271cc/transformed/play-services-maps-18.1.0/AndroidManifest.xml:41:13-37
+84
+85        <activity
+85-->[com.google.android.gms:play-services-base:18.1.0] /home/neekee/.gradle/caches/transforms-3/b6f3f8c90e5b07023f4227bca5e25d95/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+86            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+86-->[com.google.android.gms:play-services-base:18.1.0] /home/neekee/.gradle/caches/transforms-3/b6f3f8c90e5b07023f4227bca5e25d95/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+87            android:exported="false"
+87-->[com.google.android.gms:play-services-base:18.1.0] /home/neekee/.gradle/caches/transforms-3/b6f3f8c90e5b07023f4227bca5e25d95/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+88            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+88-->[com.google.android.gms:play-services-base:18.1.0] /home/neekee/.gradle/caches/transforms-3/b6f3f8c90e5b07023f4227bca5e25d95/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+89
+90        <meta-data
+90-->[com.google.android.gms:play-services-basement:18.1.0] /home/neekee/.gradle/caches/transforms-3/bb6e69914130640859551f320c64a0b3/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+91            android:name="com.google.android.gms.version"
+91-->[com.google.android.gms:play-services-basement:18.1.0] /home/neekee/.gradle/caches/transforms-3/bb6e69914130640859551f320c64a0b3/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+92            android:value="@integer/google_play_services_version" />
+92-->[com.google.android.gms:play-services-basement:18.1.0] /home/neekee/.gradle/caches/transforms-3/bb6e69914130640859551f320c64a0b3/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+93
+94        <provider
+94-->[androidx.emoji2:emoji2:1.3.0] /home/neekee/.gradle/caches/transforms-3/0b0defdd08656f59905f3e030ebb795d/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+95            android:name="androidx.startup.InitializationProvider"
+95-->[androidx.emoji2:emoji2:1.3.0] /home/neekee/.gradle/caches/transforms-3/0b0defdd08656f59905f3e030ebb795d/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+96            android:authorities="ru.axas.auction.test.androidx-startup"
+96-->[androidx.emoji2:emoji2:1.3.0] /home/neekee/.gradle/caches/transforms-3/0b0defdd08656f59905f3e030ebb795d/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+97            android:exported="false" >
+97-->[androidx.emoji2:emoji2:1.3.0] /home/neekee/.gradle/caches/transforms-3/0b0defdd08656f59905f3e030ebb795d/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+98            <meta-data
+98-->[androidx.emoji2:emoji2:1.3.0] /home/neekee/.gradle/caches/transforms-3/0b0defdd08656f59905f3e030ebb795d/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+99                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+99-->[androidx.emoji2:emoji2:1.3.0] /home/neekee/.gradle/caches/transforms-3/0b0defdd08656f59905f3e030ebb795d/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+100                android:value="androidx.startup" />
+100-->[androidx.emoji2:emoji2:1.3.0] /home/neekee/.gradle/caches/transforms-3/0b0defdd08656f59905f3e030ebb795d/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+101            <meta-data
+101-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/neekee/.gradle/caches/transforms-3/443b34c3bd03977a1acca8f5b50e88a6/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+102                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+102-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/neekee/.gradle/caches/transforms-3/443b34c3bd03977a1acca8f5b50e88a6/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+103                android:value="androidx.startup" />
+103-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/neekee/.gradle/caches/transforms-3/443b34c3bd03977a1acca8f5b50e88a6/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+104            <meta-data
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+105                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+106                android:value="androidx.startup" />
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+107        </provider>
+108
+109        <activity
+109-->[androidx.compose.ui:ui-tooling-android:1.6.3] /home/neekee/.gradle/caches/transforms-3/03d8a0dd92d90e70d366e520670e31dd/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+110            android:name="androidx.compose.ui.tooling.PreviewActivity"
+110-->[androidx.compose.ui:ui-tooling-android:1.6.3] /home/neekee/.gradle/caches/transforms-3/03d8a0dd92d90e70d366e520670e31dd/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+111            android:exported="true" />
+111-->[androidx.compose.ui:ui-tooling-android:1.6.3] /home/neekee/.gradle/caches/transforms-3/03d8a0dd92d90e70d366e520670e31dd/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+112        <activity
+112-->[androidx.compose.ui:ui-test-manifest:1.6.3] /home/neekee/.gradle/caches/transforms-3/92308c01fc2b11ceb2a5484f589c53e1/transformed/ui-test-manifest-1.6.3/AndroidManifest.xml:23:9-25:39
+113            android:name="androidx.activity.ComponentActivity"
+113-->[androidx.compose.ui:ui-test-manifest:1.6.3] /home/neekee/.gradle/caches/transforms-3/92308c01fc2b11ceb2a5484f589c53e1/transformed/ui-test-manifest-1.6.3/AndroidManifest.xml:24:13-63
+114            android:exported="true" />
+114-->[androidx.compose.ui:ui-test-manifest:1.6.3] /home/neekee/.gradle/caches/transforms-3/92308c01fc2b11ceb2a5484f589c53e1/transformed/ui-test-manifest-1.6.3/AndroidManifest.xml:25:13-36
+115
+116        <receiver
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+117            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+118            android:directBootAware="false"
+118-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+119            android:enabled="true"
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+120            android:exported="true"
+120-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+121            android:permission="android.permission.DUMP" >
+121-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+122            <intent-filter>
+122-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+123                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+123-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+123-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+124            </intent-filter>
+125            <intent-filter>
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+126                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+126-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+126-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+127            </intent-filter>
+128            <intent-filter>
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+129                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+129-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+129-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+130            </intent-filter>
+131            <intent-filter>
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+132                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+132-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+132-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/neekee/.gradle/caches/transforms-3/af34fca16dca78cf5c9309e2ae5ec57d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+133            </intent-filter>
+134        </receiver>
+135
+136        <service
+136-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/neekee/.gradle/caches/transforms-3/8543f5f3396d5e69aa28ce8b1b831290/transformed/transport-backend-cct-2.3.0/AndroidManifest.xml:29:9-35:19
+137            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+137-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/neekee/.gradle/caches/transforms-3/8543f5f3396d5e69aa28ce8b1b831290/transformed/transport-backend-cct-2.3.0/AndroidManifest.xml:30:13-103
+138            android:exported="false" >
+138-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/neekee/.gradle/caches/transforms-3/8543f5f3396d5e69aa28ce8b1b831290/transformed/transport-backend-cct-2.3.0/AndroidManifest.xml:31:13-37
+139            <meta-data
+139-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/neekee/.gradle/caches/transforms-3/8543f5f3396d5e69aa28ce8b1b831290/transformed/transport-backend-cct-2.3.0/AndroidManifest.xml:32:13-34:39
+140                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+140-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/neekee/.gradle/caches/transforms-3/8543f5f3396d5e69aa28ce8b1b831290/transformed/transport-backend-cct-2.3.0/AndroidManifest.xml:33:17-94
+141                android:value="cct" />
+141-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /home/neekee/.gradle/caches/transforms-3/8543f5f3396d5e69aa28ce8b1b831290/transformed/transport-backend-cct-2.3.0/AndroidManifest.xml:34:17-36
+142        </service>
+143        <service
+143-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/neekee/.gradle/caches/transforms-3/ed0cf9f448fa4683839528d88ac6388a/transformed/transport-runtime-2.2.3/AndroidManifest.xml:26:9-30:19
+144            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+144-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/neekee/.gradle/caches/transforms-3/ed0cf9f448fa4683839528d88ac6388a/transformed/transport-runtime-2.2.3/AndroidManifest.xml:27:13-117
+145            android:exported="false"
+145-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/neekee/.gradle/caches/transforms-3/ed0cf9f448fa4683839528d88ac6388a/transformed/transport-runtime-2.2.3/AndroidManifest.xml:28:13-37
+146            android:permission="android.permission.BIND_JOB_SERVICE" >
+146-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/neekee/.gradle/caches/transforms-3/ed0cf9f448fa4683839528d88ac6388a/transformed/transport-runtime-2.2.3/AndroidManifest.xml:29:13-69
+147        </service>
+148
+149        <receiver
+149-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/neekee/.gradle/caches/transforms-3/ed0cf9f448fa4683839528d88ac6388a/transformed/transport-runtime-2.2.3/AndroidManifest.xml:32:9-34:40
+150            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+150-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/neekee/.gradle/caches/transforms-3/ed0cf9f448fa4683839528d88ac6388a/transformed/transport-runtime-2.2.3/AndroidManifest.xml:33:13-132
+151            android:exported="false" /> <!-- The activities will be merged into the manifest of the hosting app. -->
+151-->[com.google.android.datatransport:transport-runtime:2.2.3] /home/neekee/.gradle/caches/transforms-3/ed0cf9f448fa4683839528d88ac6388a/transformed/transport-runtime-2.2.3/AndroidManifest.xml:34:13-37
+152        <activity
+152-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:18:9-24:45
+153            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+153-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:19:13-100
+154            android:enabled="false"
+154-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:20:13-36
+155            android:exported="false"
+155-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:21:13-37
+156            android:launchMode="singleInstance"
+156-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:22:13-48
+157            android:process=":playcore_missing_splits_activity"
+157-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:23:13-64
+158            android:stateNotNeeded="true" />
+158-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:24:13-42
+159        <activity
+159-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:25:9-29:65
+160            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+160-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:26:13-93
+161            android:exported="false"
+161-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:27:13-37
+162            android:stateNotNeeded="true"
+162-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:28:13-42
+163            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
+163-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:29:13-62
+164        <service
+164-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:32:9-39:19
+165            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+165-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:33:13-94
+166            android:enabled="false"
+166-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:34:13-36
+167            android:exported="true" >
+167-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:35:13-36
+168            <meta-data
+168-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:36:13-38:41
+169                android:name="com.google.android.play.core.assetpacks.versionCode"
+169-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:37:17-83
+170                android:value="11003" />
+170-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:38:17-38
+171        </service>
+172        <service
+172-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:40:9-43:40
+173            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+173-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:41:13-95
+174            android:enabled="false"
+174-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:42:13-36
+175            android:exported="false" />
+175-->[com.google.android.play:core:1.10.3] /home/neekee/.gradle/caches/transforms-3/680f6204a3d7b94a0646b8599c82688d/transformed/core-1.10.3/AndroidManifest.xml:43:13-37
+176    </application>
+177
+178</manifest>

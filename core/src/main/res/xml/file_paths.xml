@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+<!--    <external-path name="media" path="."/>-->
+<!--    <files-path name="logs" path="/logs/"/>-->
+<!--    <files-path name="cache" path="/cache/"/>-->
+<!--    <root-path name="external_files" path="/storage/" />-->
+
+    <!--    &lt;!&ndash; Context.getFilesDir() &ndash;&gt;-->
+    <files-path name="files" path="." />
+    <!-- Context.getCacheDir() -->
+    <cache-path name="cache" path="." />
+    <!--    &lt;!&ndash; Environment.getExternalStorageDirectory() &ndash;&gt;-->
+<!--    <external-path name="external_files" path="/storage/" />-->
+    <external-path name="external_files" path="." />
+    <!--    &lt;!&ndash; Context.getExternalFilesDir() &ndash;&gt;-->
+    <external-files-path name="private_external_files" path="." />
+</paths>

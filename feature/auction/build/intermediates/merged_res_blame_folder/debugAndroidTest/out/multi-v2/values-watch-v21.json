@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "ru.axas.auction.test.auction-mergeDebugAndroidTestResources-80:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/neekee/.gradle/caches/transforms-3/c8632642f8587a9487531fbe6ad069e0/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
